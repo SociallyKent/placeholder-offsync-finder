@@ -1,4 +1,3 @@
-print("Running")
 function awake()
 	--
 	listen(--listen for events
@@ -54,3 +53,4 @@ function math.round_Batch(TABLE, DECIMAL)
 	end
 	return Table
 end
+
